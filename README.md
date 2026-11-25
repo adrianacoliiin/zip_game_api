@@ -98,6 +98,7 @@ tests/
 └── functional/
 ```
 
+
 ## Endpoints
 
 | Método | Endpoint | Auth | Propósito |
