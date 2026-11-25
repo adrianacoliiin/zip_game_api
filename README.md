@@ -3,6 +3,15 @@
 Backend REST de **ZIP Game** (Práctica I · Desarrollo para Dispositivos Inteligentes · UTD · 10°A BIS).
 Valida las soluciones, calcula el puntaje **sólo en el servidor** y guarda todo en MySQL 8.
 
+## Equipo
+
+- Adriana Alejandra Colin Muñoz
+- Michelle Cordova Torres
+- Diego Daher Díaz Contreras
+- Manuel Alejandro Hernández Rubio
+
+Profesor: Ing. Luis Ángel Martínez Vargas
+
 | Tecnología | Uso |
 |---|---|
 | AdonisJS 6 + TypeScript | API REST (controladores → servicios → repositorios) |
